@@ -1,0 +1,22 @@
+{
+    "config": "configs/cracks_segmenter.py",
+    "metric": {
+        "aAcc": 0.9577,
+        "mIoU": 0.4851,
+        "mAcc": 0.6591,
+        "IoU.Background": 0.9584999847412109,
+        "IoU.Arrachement_pelade": 0.5493999862670899,
+        "IoU.Faiencage": 0.5747999954223633,
+        "IoU.Nid_de_poule": 0.42139999389648436,
+        "IoU.Transversale": 0.3281999969482422,
+        "IoU.Longitudinale": 0.22700000762939454,
+        "IoU.Reparation": 0.33619998931884765,
+        "Acc.Background": 0.9740000152587891,
+        "Acc.Arrachement_pelade": 0.6869999694824219,
+        "Acc.Faiencage": 0.7623999786376953,
+        "Acc.Nid_de_poule": 0.545,
+        "Acc.Transversale": 0.5877000045776367,
+        "Acc.Longitudinale": 0.601599998474121,
+        "Acc.Reparation": 0.4558000183105469
+    }
+}
